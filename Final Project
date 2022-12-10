@@ -1,0 +1,48 @@
+{
+    "cells": [
+        {
+            "cell_type": "markdown",
+            "metadata": {
+                "collapsed": true
+            },
+            "source": "# My Jupyter Notebook on IBM Watson Studio"
+        },
+        {
+            "cell_type": "markdown",
+            "metadata": {},
+            "source": "<b> Aditya Katkol </b> \n\nengineer "
+        },
+        {
+            "cell_type": "markdown",
+            "metadata": {},
+            "source": "_Data Science is a foundation for our future innovations. I am interested in DS. because of its capability to truly change the way we live._"
+        },
+        {
+            "cell_type": "markdown",
+            "metadata": {},
+            "source": "# The next cell will calculate how much money I will pay Barnes & Nobles to purchase three book volumes  \"data Science\":"
+        },
+        {
+            "cell_type": "code",
+            "execution_count": 9,
+            "metadata": {
+                "scrolled": true
+            },
+            "outputs": [
+                {
+                    "name": "stdout",
+                    "output_type": "stream",
+                    "text": "For the three books I will pay a total sum of 45 $.\n"
+                }
+            ],
+            "source": "import math"                                   
+        },
+        {
+            "cell_type": "code",
+            "execution_count": null,
+            "metadata": {},
+            "outputs": [],
+            "source": ""
+        }
+    ]
+}
